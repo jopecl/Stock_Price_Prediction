@@ -1,4 +1,4 @@
-# stock-price-prediction
+# Stock Price Prediction
 
 A Deep Learning Approach for Stock Price Prediction and Trend Capturing
 
