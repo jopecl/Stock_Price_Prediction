@@ -16,4 +16,4 @@ Everything can be run from Google Colab by downloading the data and adjusting yo
 
 ________________________________________________________________________________________________________
 
-Please bear in mind that the core of this project is a multi-label LSTM for predicting one day at a time. The extension to project the data into the future is still a process we are working on, as the model was not specifically designed for that, but we thought we could use it. Moreover, the entire code (data loading, preprocessing, modeling, training, etc.) is written from scratch and has not been fetched from any public repository.
+Please bear in mind that the core of this project is a multi-label LSTM for predicting one day at a time. The extension to project the data into the future is still a process we are working on, as the model was not specifically designed for that, but we thought we could use it. 
