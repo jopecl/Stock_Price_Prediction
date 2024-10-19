@@ -13,7 +13,3 @@ Additionally, you will find some example data publicly obtained from Kaggle, a c
 We achieved a maximum accuracy of 95.92%, considering predictions within a tolerance of ±0.1 as correct. Moreover, using the multi-label approach, we captured trends up to 30 days into the future, which can be used to implement further technical analysis.
 
 Everything can be run from Google Colab by downloading the data and adjusting your path in the notebooks.
-
-________________________________________________________________________________________________________
-
-Please bear in mind that the core of this project is a multi-label LSTM for predicting one day at a time. The extension to project the data into the future is still a process we are working on, as the model was not specifically designed for that, but we thought we could use it. 
