@@ -1,6 +1,6 @@
 # Stock Price Prediction
 
-A Deep Learning Approach for Stock Price Prediction and Trend Capturing
+A Deep Learning Approach for Stock Price Prediction and Trend Capturing by [Telmo Linacisoro](https://github.com/telmolinacisoro) and [José Pérez](https://github.com/jopecl)
 
 In this repository, you will find three different approaches for solving stock price predictions:
 
